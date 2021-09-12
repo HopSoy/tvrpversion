@@ -1,4 +1,5 @@
 {
 	"NewestVersion":"v0.1.0",
-	"VersionName":"TVRP Alpha"
+	"VersionName":"TVRP Alpha",
+	"MOTD":"Message of the Day"
 }
